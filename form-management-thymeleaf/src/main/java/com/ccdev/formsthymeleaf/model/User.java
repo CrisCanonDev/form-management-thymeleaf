@@ -15,8 +15,10 @@ public class User {
     private String name;
     private String email;
     private String password;
-    private String gender;
     private Date dateOfBirth;
+    private String gender;
+    private String profession;
+    private boolean working;
     private String additionalInformation;
 
 }
